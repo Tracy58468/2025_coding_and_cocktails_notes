@@ -40,3 +40,4 @@ This is to keep track of the improvements we want to make to the worksheets.
 - Renumber "pages" to put setup pages as 01, then push the number of each subsequent page up by one. This will make it easier to find the setup pages in each session more easily.
 - Consider standardizing the "solutions." They currently exist as screen shots, additional pages, and GitHub repos. It would be nice to have them all as GitHub repos. Now that we have Codespaces, this might make the most sense.
 - Move keyboard shortcuts to top-level folder and fix references to it in all worksheets.
+- Remove quizzes?
